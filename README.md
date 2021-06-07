@@ -5,14 +5,17 @@
 
 In the project directory, you can run:
 
-
-
+ ```bash 
+ 
+ npm i yaya-form
+ 
+ ```
 
 ## Usage
 
  ```bash
 import React from 'react'
-import './App.css';
+import './App.css'; // Add all your classNames in stylesheets
 import YayaForm from 'yaya-form';
 
 
